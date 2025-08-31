@@ -1,0 +1,2 @@
+openapi_key = "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"
+serpapi_key = ""
